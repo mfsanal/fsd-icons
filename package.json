@@ -1,0 +1,8 @@
+{
+  "name": "fsd-icons",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "React Icons",
+  "author": "Fatih Şanal",
+  "license": "MIT"
+}
